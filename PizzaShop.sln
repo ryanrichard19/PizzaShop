@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30128.74
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop.Server", "PizzaShop\Server\PizzaShop.Server.csproj", "{08C67BBC-B5E0-4DE4-9C3C-0BC051C22EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShop.Server", "PizzaShop\Server\PizzaShop.Server.csproj", "{08C67BBC-B5E0-4DE4-9C3C-0BC051C22EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop.Client", "PizzaShop\Client\PizzaShop.Client.csproj", "{7D12FC1E-4EC8-4990-BCFD-B31CB5A0E4B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShop.Client", "PizzaShop\Client\PizzaShop.Client.csproj", "{7D12FC1E-4EC8-4990-BCFD-B31CB5A0E4B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop.Shared", "PizzaShop\Shared\PizzaShop.Shared.csproj", "{20833DC8-F134-414C-A610-444D7B1DA383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShop.Shared", "PizzaShop\Shared\PizzaShop.Shared.csproj", "{20833DC8-F134-414C-A610-444D7B1DA383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaShop.ComponentsLibrary", "PizzaShop\PizzaShop.ComponentsLibrary\PizzaShop.ComponentsLibrary.csproj", "{B6192A32-432F-4161-9A7A-6E8A8B613ABD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaShop.ComponentsLibrary", "PizzaShop\PizzaShop.ComponentsLibrary\PizzaShop.ComponentsLibrary.csproj", "{B6192A32-432F-4161-9A7A-6E8A8B613ABD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

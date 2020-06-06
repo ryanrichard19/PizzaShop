@@ -11,8 +11,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using System.Linq;
-using PizzaShop.Server.Data;
-using PizzaShop.Server.Models;
 
 namespace PizzaShop.Server
 {

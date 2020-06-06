@@ -1,7 +1,8 @@
 ﻿@using Microsoft.AspNetCore.Identity
-@using PizzaShop.Server.Models
-@inject SignInManager<ApplicationUser> SignInManager
-@inject UserManager<ApplicationUser> UserManager
+@using PizzaShop.Server
+
+@inject SignInManager<PizzaStoreUser> SignInManager
+@inject UserManager<PizzaStoreUser> UserManager
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
 @{
