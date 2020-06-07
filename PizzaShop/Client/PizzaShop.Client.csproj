@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PizzaShop.ComponentsLibrary\PizzaShop.ComponentsLibrary.csproj" />
+    <ProjectReference Include="..\PizzaShop.Components\PizzaShop.Components.csproj" />
     <ProjectReference Include="..\Shared\PizzaShop.Shared.csproj" />
   </ItemGroup>
 
